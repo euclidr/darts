@@ -6,7 +6,7 @@ It's a Go package that partially reimplements [darts-clone](https://github.com/s
 It can:
 
 1. build double array data structure from ordered strings
-2. check whether a string exists and get it's index
+2. check whether a string exists and get its index
 3. scan matched prefixes of a string
 
 ### Usage
